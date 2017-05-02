@@ -1,6 +1,6 @@
 import React, { Component, PropTypes } from 'react'
 import { UniqueId } from 'sendit-utility'
-import './style.css'
+import './style.scss'
 export default class SenditInput extends Component {
   constructor() {
     super()
