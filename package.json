@@ -1,0 +1,24 @@
+{
+  "name": "sendit-input",
+  "version": "1.0.0",
+  "description": "Input component for Sendit react Edit",
+  "main": "index.js",
+  "scripts": {
+    "test": "No Test Command"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sendit-asia/sendit-input.git"
+  },
+  "keywords": [
+    "sendit",
+    "component",
+    "input"
+  ],
+  "author": "Sittipong HAUS",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/sendit-asia/sendit-input/issues"
+  },
+  "homepage": "https://github.com/sendit-asia/sendit-input#readme"
+}
